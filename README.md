@@ -4,5 +4,5 @@ This repository contains code and synthetic data for the analyses described in A
 
 ***Please note this repository is not yet final.***
 
-<a href="output/main_forest_plot.jpg"><img src="output/main_forest_plot.jpg" width=60%/>
+<a href="output/main_forest_plot.jpg"><img src="output/main_forest_plot.jpg" width=70%/>
    
