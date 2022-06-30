@@ -4,4 +4,4 @@ This repository contains code and synthetic data for the analyses described in A
 
 ***Please note this repository is not yet final.***
 
-<a href=""><img src="https://github.com/kathoffman/sot-sepsis-application/blob/master/output/main_forest_plot.jpg" width=40%/>
+<a href="https://github.com/kathoffman/sot-sepsis-application/blob/master/output/main_forest_plot.jpg"><img src="https://github.com/kathoffman/sot-sepsis-application/blob/master/output/main_forest_plot.jpg" width=40%/>
